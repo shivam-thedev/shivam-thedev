@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Shivam!<br><br>I'm a passionate full-stack developer in the making, currently pursuing a Bachelor’s in Computer Applications (BCA). My coding journey <br>My expertise includes React, Node.js, MongoDB, Express.js, and Tailwind CSS. <br>I focus on crafting responsive, interactive, and user-friendly interfaces while ensuring smooth backend integration.<br><br>💬 Ask me about<br>Full-stack development, React, Node.js, Tailwind CSS, or creating responsive web applications.<br><br>⚡ Fun fact<br>I love solving complex coding challenges with Data Structures & Algorithms, and I enjoy sharing what I learn through my projects!
+👋 Hi, I'm Shivam!<br><br>I'm a passionate full-stack developer in the making, currently pursuing a Bachelor’s in Computer Applications (BCA).<br>My expertise includes React, Node.js, MongoDB, Express.js, and Tailwind CSS. <br>I focus on crafting responsive, interactive, and user-friendly interfaces while ensuring smooth backend integration.<br><br>💬 Ask me about<br>Full-stack development, React, Node.js, Tailwind CSS, or creating responsive web applications.<br><br>⚡ Fun fact<br>I love solving complex coding challenges with Data Structures & Algorithms, and I enjoy sharing what I learn through my projects!
 
 
 ## 🌐 Socials:
