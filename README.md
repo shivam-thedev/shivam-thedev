@@ -16,6 +16,11 @@
 ![](https://github-contributor-stats.vercel.app/api?username=shivam-thedev&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=shivam-thedev&icon=0&color=0)](https://visitcount.itsvg.in)
+<table>
+  <tr>
+    <td>Profile visits </td>
+    <td><img src="https://profile-counter.glitch.me/shivam-thedev/count.svg" alt="visitor count" height="30" width="224" /></td>
+  </tr>
+</table>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
